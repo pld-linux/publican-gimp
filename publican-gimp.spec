@@ -4,7 +4,7 @@ Name:		publican-gimp
 Version:	1.0
 Release:	1
 License:	FDL
-Group:		Development/Libraries
+Group:		Development/Tools
 Source0:	https://fedorahosted.org/releases/p/u/publican/%{name}-%{version}.tgz
 # Source0-md5:	49180728220ffcf2e7ec415b8833954a
 URL:		https://publican.fedorahosted.org/
